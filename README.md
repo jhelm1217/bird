@@ -1,13 +1,10 @@
 <!DOCTYPE html>
 <html lang="en US">
-<head> You ever notice birds 
+<head> Let's soar
 </head>
-span style="font-size: 32px; margin: 21px 0; display: block;">
-  You ever notice birds?
-
-<body> Escape into Nature
+<body> 
     <header>
-    <h1>Header</h1>
+    <h1>Escape into Nature</h1>
     </header>
 <nav>
     
