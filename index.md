@@ -1,6 +1,8 @@
 <!DOCTYPE html>
-<html lang="en US">
-    <title>Birds of a feather</title>
+<html>
+<head>
+<title>Birds of a feather</title> 
+</head>
 <body> 
     <header>
     <h1>Escape into Nature</h1>
