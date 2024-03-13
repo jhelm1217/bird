@@ -1,15 +1,17 @@
 <!DOCTYPE html>
-<html lang="en US">
+<html lang="en">
     <head>
-        <meta charset="UTF-8" />
+        <meta charset="utf-8" />
         <title>Bird Watching Club</title> 
         <meta name="description"content="Early Bird catches the worm!"/>
         <meta name="author" content="Jacinta" />
+        <link rel="stylesheet" href="styles.css" />
 </head>
 
 
 <body> 
 <h1 style="text-align: center;">Escape into Nature</h1>
+
 <div class="topnav">
     <a class="active" href="#home">Home</a>
         <a href="#getting started">Getting Started</a>
