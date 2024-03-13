@@ -1,1 +1,19 @@
+html ,body {
+    margin: 0;
+    padding: 0;
+}
 
+html {
+    font-size: 15px;
+    background-color: darkorchid;
+}
+
+body {
+    width: 50%;
+    min-width: 500px;
+    margin: 0 auto;
+}
+
+h1, h2. h3 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif, cursive;
+}
