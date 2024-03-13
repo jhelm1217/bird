@@ -1,15 +1,11 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-    <meta charset="UTF-8">
-<title>Birds of a feather</title> 
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Birds of a Feather</title> 
 </head>
 <body> 
-<style>
-    p {
-        background-image:url(birdssss.jpeg)
-    }
-    </style>
     <header>
     <h1>Escape into Nature</h1>
     </header>
