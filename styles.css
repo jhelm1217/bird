@@ -13,6 +13,7 @@ body {
     min-width: 800px;
     margin: 0 auto;
     background-image:url("birdssss.jpeg");
+    background-repeat: no repeat;
 }
 
 h1, h2, h3 {
