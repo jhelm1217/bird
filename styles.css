@@ -27,8 +27,16 @@ p, input, li {
 
 h1 {
     text-align:center;
-
     text-transform: uppercase;
+  }
+
+  h2 {
+    font-size: 3rem;
+    text-align: center;
+  } 
+   
+  h3 {
+    font-size: 2.2rem;
   }
   
 
