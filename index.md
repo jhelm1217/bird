@@ -9,6 +9,7 @@
     p {
         background-image:url(birdssss.jpeg)
     }
+    </style>
     <header>
     <h1>Escape into Nature</h1>
     </header>
