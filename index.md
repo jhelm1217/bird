@@ -5,13 +5,9 @@
         <title>Bird Watching Club</title> 
         <meta name="description"content="Early Bird catches the worm!"/>
         <meta name="author" content="Jacinta" />
-
-<style>
-    {font-family:courier;
-    text-align:center;
-  }
-    </style>
 </head>
+
+
 <body> 
 <h1 style="text-align: center;">Escape into Nature</h1>
  <h3>
