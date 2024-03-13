@@ -1,8 +1,8 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en US">
     <head>
         <meta charset="UTF-8" />
-        <title style ="color:green;">Birds Watching Club</title> 
+        <title>Bird Watching Club</title> 
         <meta name="description"content="Early Bird catches the worm!"/>
         <meta name="author" content="Jacinta" />
 
