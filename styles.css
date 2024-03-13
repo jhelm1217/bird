@@ -44,3 +44,10 @@ nav li {
     flex: 1;
   }
   
+main {
+    display: flex;
+  }
+
+article, section {
+    flex: 4;
+  }
