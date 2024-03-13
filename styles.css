@@ -44,6 +44,23 @@ p, li {
     line-height: 1.5;
   }
 
+  header {
+    margin-bottom: 10px;
+    display: flex;
+    flex-flow: row wrap;
+  }
+  
+  body > * {
+    background-color: red;
+    padding: 1%;
+
+
+
+
+
+
+
+
   nav {
     height: 50px;
     flex: 100%;
