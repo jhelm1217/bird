@@ -35,6 +35,12 @@ main, header, nav, article, aside, footer, section {
     padding: 1%;
   }
 
+  nav {
+    height: 50px;
+    flex: 100%;
+    display: flex;
+  }
+  
 nav ul {
     padding: 0;
     list-style-type: none;
