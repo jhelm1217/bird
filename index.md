@@ -1,8 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-<meta charset="UTF-8">
-<title style ="color:green;">Birds of a Feather</title> 
+    <head>
+        <meta charset="UTF-8" />
+        <title style ="color:green;">Birds Watching Club</title> 
+        <meta name="description"content="Early Bird catches the worm!"/>
+        <meta name="author" content="Jacinta" />
+
 <style>
     {font-family:courier;
     text-align:center;
