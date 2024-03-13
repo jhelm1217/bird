@@ -4,6 +4,7 @@
 <title>Birds of a feather</title> 
 </head>
 <body> 
+<body style="background-color:light purple;">
     <header>
     <h1>Escape into Nature</h1>
     </header>
