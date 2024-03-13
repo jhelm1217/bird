@@ -25,6 +25,10 @@ p {
     color: cornsilk;
 }
 
+h1 {
+    flex: 5;
+    text-transform: uppercase;
+  }
   nav {
     height: 50px;
     flex: 100%;
