@@ -26,7 +26,8 @@ p, input, li {
 }
 
 h1 {
-    flex: 5;
+    text-align:center;
+
     text-transform: uppercase;
   }
   
