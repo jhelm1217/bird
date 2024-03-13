@@ -4,6 +4,10 @@
 <title>Birds of a feather</title> 
 </head>
 <body> 
+<style>
+    p {
+        background-image:url(birdssss.jpeg)
+    }
     <header>
     <h1>Escape into Nature</h1>
     </header>
