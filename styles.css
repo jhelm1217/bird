@@ -71,7 +71,7 @@ li {
     display: inline;
     text-align: center;
     flex: 1;
-    float: left;
+    float: right;
   }
 
   ul {
