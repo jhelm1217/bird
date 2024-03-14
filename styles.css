@@ -69,6 +69,10 @@ p, li {
     background-color: antiquewhite;
   }
 
+  article, section {
+    flex: 4;
+  }
+
   aside {
     flex: 1;
     margin-left: 10px;
