@@ -84,17 +84,6 @@ li {
     float: left;
   }
 
-  nav a, nav span {
-    display: inline-block;
-    font-size: 2rem;
-    height: 3rem;
-    line-height: 1.7;
-    text-transform: uppercase;
-    text-decoration: none;
-    color: black;
-  
-  }
-
 /* general layout*/
 
   main {
@@ -114,6 +103,7 @@ li {
     display: block;
     padding: 8px;
     background-color: antiquewhite;
+    float: right;
   }
 
   article, section {
