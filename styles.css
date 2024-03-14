@@ -50,7 +50,3 @@ p, li {
     flex-flow: row wrap;
   }
   
-  body > * {
-    background-color: whitesmoke;
-    padding: 1%;
-  }
