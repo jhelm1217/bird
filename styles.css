@@ -28,6 +28,8 @@ p, input, li {
 h1 {
     text-align:center;
     text-transform: uppercase;
+    text-decoration: wavy;
+    font-size: 4rem;
   }
 
   h2 {
@@ -44,9 +46,8 @@ p, li {
     line-height: 1.5;
   }
 
-  header {
-    margin-bottom: 10px;
-    display: flex;
-    flex-flow: row wrap;
+  nav li {
+    display: inline;
+    text-align: center;
+    flex: 1;
   }
-  
