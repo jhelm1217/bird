@@ -24,7 +24,7 @@ h1, h2, h3, h4 {
     color: burlywood;
 }
 
-p, input, li {
+p, li {
     font-family: Arial, Helvetica, sans-serif;
     color: cornsilk;
 }
@@ -38,7 +38,7 @@ p, input, li {
     object-fit: cover;
     opacity: 0.8;
   }
-  
+
 h1 {
     text-align:center;
     text-transform: uppercase;
