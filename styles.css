@@ -63,6 +63,11 @@ p, li {
     float: left;
   }
 
+
+  main {
+    display: flex;
+  }
+  
   a {
     display: block;
     padding: 8px;
