@@ -104,7 +104,7 @@ li {
     display: block;
     padding: 8px;
     background-color: antiquewhite;
-    float: right;
+    float: center;
   }
 
   article, section {
