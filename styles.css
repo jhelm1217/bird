@@ -51,51 +51,6 @@ p, li {
   }
   
   body > * {
-    background-color: indianred;
+    background-color: whitesmoke;
     padding: 1%;
-  }
-
-
-
-
-
-
-
-
-  nav {
-    height: 50px;
-    flex: 100%;
-    display: flex;
-  }
-
-nav ul {
-    padding: 0;
-    list-style-type: none;
-    margin: 0;
-  }
- 
-nav li {
-    display: inline;
-    text-align: center;
-    flex: 1;
-  }
-
-nav a, nav span {
-    display: inline-block;
-    font-size: 2rem;
-    height: 3rem;
-    line-height: 1.7;
-    text-transform: uppercase;
-    text-decoration: none;
-    color: black;
-  
-  }
-  
-  
-main {
-    display: flex;
-  }
-
-article, section {
-    flex: 4;
   }
