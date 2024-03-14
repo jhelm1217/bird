@@ -63,15 +63,11 @@ p {
     line-height: 1.5;
   }
 
-li {
-    font-size: 1.8;
-  }
-
   nav li {
     display: inline;
     text-align: center;
     flex: 1;
-    float: right;
+    float: center;
   }
 
   ul {
@@ -83,6 +79,7 @@ li {
   li {
     display: inline;
     float: left;
+    font-size: 3rem;
   }
 
 /* general layout*/
