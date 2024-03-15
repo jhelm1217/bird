@@ -86,6 +86,7 @@ p {
 
   ul {
     list-style-type: none;
+
   }
   
   li {
@@ -136,4 +137,6 @@ p {
     flex-wrap: wrap;
   }
 
-  
+  footer {
+    color: blue;
+  }
