@@ -77,6 +77,8 @@ p {
     margin: 0;
     padding: 0;
     display: flexbox;
+    overflow: hidden;
+    background-color: antiquewhite;
   }
   
   li {
@@ -85,15 +87,19 @@ p {
     font-size: 3rem;
   }
 
+  li a {
+    display: block;
+    color:black;
+    text-align: center;
+    padding: 14px;
+  }
 /* general layout*/
 
 
 
   a {
     display: block;
-    padding: 8px;
-    background-color: antiquewhite;
-    float: center;
+    padding: 10px;
   }
 
   aside section {
