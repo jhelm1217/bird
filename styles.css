@@ -150,8 +150,8 @@ main {
   }
   
   aside img {
-    max-width: 25%;
-    height: 25%;
+    max-width: 50%;
+    height: 50%;
     margin: auto;
     padding: 5px;
     float: right;
