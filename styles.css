@@ -76,6 +76,7 @@ p {
     list-style-type: none;
     margin: 0;
     padding: 0;
+    display: flexbox;
   }
   
   li {
@@ -86,9 +87,6 @@ p {
 
 /* general layout*/
 
-  main {
-    display: flex;
-  }
 
 
   a {
@@ -96,10 +94,6 @@ p {
     padding: 8px;
     background-color: antiquewhite;
     float: center;
-  }
-
-  article, section {
-    flex: 4;
   }
 
   aside section {
