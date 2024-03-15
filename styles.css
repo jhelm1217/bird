@@ -86,17 +86,11 @@ p {
 
   ul {
     list-style-type: none;
-    margin: 0;
-    padding: 0;
-    display: flexbox;
-    overflow: hidden;
-    background-color: bisque;
   }
   
   li {
     display: inline;
-    float: left;
-    font-size: 3rem;
+   padding: 50px;
   }
 
   li a {
@@ -106,13 +100,7 @@ p {
     padding: 14px;
   }
 
-  nav a, nav span {
-    display: inline-block;
-    font-size: 2rem;
-    height: 3rem;
-    line-height: 1.7;
-    text-transform: uppercase;
-  }
+ 
 
   h3, section {
     background-color: pink;
@@ -121,16 +109,6 @@ p {
 
 /* general layout*/
 
-main {
-  display: flex;
-}
-
-  a {
-    display: block;
-    padding: 10px;
-    display: flex;
-    flex-wrap: wrap;
-  }
 
   section {
     flex: 4;
@@ -142,7 +120,7 @@ main {
   
   aside {
     float: right;
-    width: 30%;
+    width: 500px;
     margin-left: 15px;
     padding-left: 15px;
     background-color: antiquewhite;
