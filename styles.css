@@ -124,7 +124,9 @@ p {
 
 /* general layout*/
 
-
+main {
+  display: flex;
+}
 
   a {
     display: block;
@@ -147,7 +149,7 @@ p {
     background-color: antiquewhite;
   }
   
-  aside section a img {
+  aside img {
     max-width: 100%;
     height: 100%;
     margin: auto;
