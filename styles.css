@@ -65,6 +65,7 @@ p {
     line-height: 1.5;
     text-align: left;
     float: left;
+    display: flexbox;
   }
 
   nav li {
