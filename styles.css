@@ -152,6 +152,7 @@ main {
     margin: auto;
     padding: 5px;
     float: right;
+    flex-wrap: wrap;
   }
 
   
