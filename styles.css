@@ -67,6 +67,7 @@ p {
     text-align: left;
     float: left;
     display: block;
+    background-color: forestgreen;
   }
 
   nav li {
