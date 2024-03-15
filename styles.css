@@ -59,16 +59,14 @@ h3 {
     text-decoration: wavy;
     float: right;
 }
-
-p {
-    font-size: 1.6rem;
-    line-height: 1.5;
-    text-align: left;
-    float: left;
-    text-align: left;
-    display: block;
-    background-color: forestgreen;
-  }
+main {
+  font-size: 1.6;
+  line-height: 1.5;
+  text-align: left;
+  float: left;
+  display: block;
+  background-color: forestgreen;
+}
 
   nav {
     height: 5rem;
