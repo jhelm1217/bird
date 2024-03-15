@@ -71,6 +71,12 @@ p {
     background-color: forestgreen;
   }
 
+  nav {
+    height: 50px;
+    flex: 100%;
+    display: flex;
+  }
+
   nav li {
     display: inline;
     text-align: center;
@@ -100,8 +106,19 @@ p {
     padding: 14px;
   }
 
+  nav a, nav span {
+    display: inline-block;
+    font-size: 2rem;
+    height: 3rem;
+    line-height: 1.7;
+    text-transform: uppercase;
+    text-decoration: none;
+    color: black;
+  
+  }
+
   h3, section {
-    background-color: antiquewhite;
+    background-color: pink;
   }
 
 
