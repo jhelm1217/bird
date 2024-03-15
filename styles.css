@@ -140,8 +140,10 @@ p {
 
   footer {
     position: fixed;
-      text-align: center;
-      padding: 3px;
-      background-color: purple;
-      color: white;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    background-color: purple;
+    color: white;
   }
