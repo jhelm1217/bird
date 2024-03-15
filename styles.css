@@ -59,6 +59,15 @@ h3 {
     text-decoration: wavy;
     float: right;
 }
+p {
+  background-color: olive;
+  display: block;
+  float: left;
+  text-align: left;
+  text-decoration: wavy;
+  font-size: 1.6;
+  line-height: 1.5;
+}
 
 
   nav {
