@@ -137,10 +137,11 @@ p {
     flex-wrap: wrap;
   }
 
-  footer {
+  footer, p {
     color: blue;
       text-align: center;
       padding: 3px;
       background-color: DarkSalmon;
       color: white;
+      margin-top: 10px;
   }
