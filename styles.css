@@ -138,6 +138,14 @@ p {
     flex-wrap: wrap;
   }
 
+
+  /* STyle the sidebar */
+
+.sidebar {
+  height: 100%;
+  width: 160px;
+}
+
   footer {
     position: fixed;
     left: 0;
