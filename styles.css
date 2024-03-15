@@ -83,20 +83,19 @@ main {
      padding: 0;
      margin: 0;
      background-color: bisque;
-     float: right;
   }
   
   li {
     display: inline;
     padding: 50px;
-    float: right;
+    float: center;
   }
 
   li a {
     display: block;
     color: orchid;
     text-align: center;
-    padding: 14px;
+    padding: 0;
     font-size: medium;
   }
 
